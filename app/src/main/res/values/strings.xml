@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <string name="price_format">Цена: %.2f ₽</string>
+</resources>
